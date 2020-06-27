@@ -7,3 +7,4 @@ import com.onlinebookstore.entity.Book;
 public interface BookRepository extends JpaRepository<Book,Long>  {
 
 }
+ 

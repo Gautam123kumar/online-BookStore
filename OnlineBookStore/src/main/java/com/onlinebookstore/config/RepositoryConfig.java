@@ -16,7 +16,7 @@ public class RepositoryConfig implements RepositoryRestConfigurer{
 	@Autowired
 	private EntityManager entityManager;
 	
-	@Override
+	@Override 
 	public void configureRepositoryRestConfiguration(RepositoryRestConfiguration config) {
 		
 		

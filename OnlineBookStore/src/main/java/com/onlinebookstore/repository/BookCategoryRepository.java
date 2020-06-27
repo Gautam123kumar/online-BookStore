@@ -10,3 +10,4 @@ import com.onlinebookstore.entity.BookCategory;
 public interface BookCategoryRepository extends JpaRepository<BookCategory,Long>{
 
 }
+        
